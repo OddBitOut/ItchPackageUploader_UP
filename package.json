@@ -1,11 +1,9 @@
 {
-    "name": "com.OddBitOut.ItchPackageUploader",
+    "name": "com.oddbitout.itchpackageuploader",
     "version": "1.0.1",
     "displayName": "ItchPackageUploader",
     "description": "This is an example package",
     "unity": "2019.1",
-    "unityRelease": "0b5",
-    "dependencies": {},
     "keywords": [
       "keyword1",
       "keyword2",
